@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Caio%20Beniel&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=CAIO%20BENIEL&rotate=0" />
 </p>
 
 <h2 align="center">
