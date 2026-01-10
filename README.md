@@ -1,7 +1,11 @@
-# 👋 Olá, eu sou Caio Beniel
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Caio%20Beniel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-Desenvolvedor de Software com foco em backend, apaixonado por construir soluções robustas que resolvem problemas reais.  
-Experiência com Python (FastAPI), Node.js, desenvolvimento de APIs REST, princípios SOLID e testes automatizados.
+## 👋 Olá, eu sou o Caio Beniel
+
+Desenvolvedor de Software com foco em **backend**, atuando na construção de APIs REST escaláveis, manuteníveis e bem testadas.  
+Experiência prática com **Python (FastAPI)**, **Node.js**, **princípios SOLID**, **Clean Architecture** e **testes automatizados**.
 
 ---
 
@@ -22,42 +26,52 @@ Experiência com Python (FastAPI), Node.js, desenvolvimento de APIs REST, princ�
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-### DevOps e Qualidade
+### DevOps & Qualidade
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
-## 📌 Sobre Mim
+## 💼 Experiência Atual
 
-Atualmente trabalho no desenvolvimento de um sistema de gerenciamento de arquivos para o **Grupo Tapajós**, com foco em:
+### 📁 Sistema de Gerenciamento de Arquivos — Grupo Tapajós
 
-- Desenvolvimento backend com **Python + FastAPI**
-- Refatorações seguindo princípios **SOLID** e Clean Architecture
+Atuação no desenvolvimento de um sistema interno com foco em:
+
+- Backend em **Python + FastAPI**
+- Refatorações aplicando **SOLID** e **Inversão de Dependência**
 - Tratamento de erros personalizados
-- Testes unitários com **alta cobertura (98%)**
-- Integração de novas funcionalidades e melhorias contínuas
-
-Estou expandindo minha experiência em arquitetura de software, boas práticas e qualidade de código.
+- Testes unitários com **98% de cobertura**
+- Integração de **WebView**
+- Melhoria contínua de arquitetura e qualidade de código
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
-### 📁 Sistema de Gerenciamento de Arquivos  
-Repositório com código backend e estrutura modular aplicada com boas práticas.
+### 🛒 Plataforma de E-commerce
+- Backend com **Node.js, Express, Prisma e MongoDB**
+- Frontend com **Next.js**
+- Estrutura preparada para integração com gateways de pagamento
 
-🔗 https://github.com/beniel77/[nome-do-projeto]
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beniel77&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-📌 **LinkedIn:** https://www.linkedin.com/in/caio-beniel  
-📌 **GitHub:** https://github.com/beniel77  
-📌 **Email:** caio.beniel55@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/caio-beniel  
+- **GitHub:** https://github.com/beniel77  
+- **Email:** caio.beniel55@gmail.com  
 
 ---
 
-⚡️ **Sempre aprendendo e evoluindo.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43
