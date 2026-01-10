@@ -15,10 +15,11 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/beniel77/beniel77/main/assets/Design%20sem%20nome.png" 
+    src="https://raw.githubusercontent.com/caiob77/caiob77/main/assets/programmer-4709802_1280.jpg"
     width="900"
   />
 </p>
+
 
 ---
 
