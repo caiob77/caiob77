@@ -13,6 +13,13 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="22" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/beniel77/beniel77/main/assets/Design%20sem%20nome.png" 
+    width="900"
+  />
+</p>
+
 ---
 
 ## 🧠 Sobre mim
