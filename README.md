@@ -85,8 +85,12 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=caiob77&theme=tokyonight" />
+  <img 
+    src="https://raw.githubusercontent.com/caiob77/caiob77/main/assets/transferir.svg"
+    width="600"
+  />
 </p>
+
 
 
 ---
