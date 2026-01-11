@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="22" />
-  Backend • APIs REST • Clean Architecture
+  Backend • Frontend • APIs REST • Clean Code
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="22" />
 </p>
 
@@ -25,8 +25,8 @@
 
 ## 🧠 Sobre mim
 
-💻 Desenvolvedor de Software com foco em **backend**  
-🚀 Experiência com **Python (FastAPI)** e **Node.js**  
+💻 Desenvolvedor de Software com forte atuaçao em **backend**  
+🚀 Experiência com **Python (FastAPI)** e **Node.js** e integraçao entre front e backend 
 🧱 Aplicação de **SOLID** e **Clean Architecture**  
 🧪 Forte atuação com **testes automatizados**  
 📈 Foco em código limpo, escalável e manutenível  
