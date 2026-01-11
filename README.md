@@ -26,10 +26,12 @@
 ## 🧠 Sobre mim
 
 💻 Desenvolvedor de Software com forte atuaçao em **backend**  
-🚀 Experiência com **Python (FastAPI)** e **Node.js** e integraçao entre front e backend 
+🚀 Experiência com **Python (FastAPI)** e **Node.js** e integraçao entre front e **backend*
+
 🧱 Aplicação de **SOLID** e **Clean Architecture**  
 🧪 Forte atuação com **testes automatizados**  
 📈 Foco em código limpo, escalável e manutenível  
+
 
 ---
 
