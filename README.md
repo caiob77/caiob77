@@ -85,8 +85,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiob77&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=caiob77&theme=tokyonight" />
 </p>
+
 
 ---
 
