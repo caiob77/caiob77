@@ -83,12 +83,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beniel77&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beniel77&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiob77&theme=tokyonight" />
 </p>
 
 ---
